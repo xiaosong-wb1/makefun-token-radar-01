@@ -1,0 +1,6 @@
+{
+  "name": "token-radar-bot",
+  "private": true,
+  "type": "module",
+  "description": "Launch Radar: a token launch radar entry for make.fun token-radar-01 (Node 22, standard library only)"
+}
